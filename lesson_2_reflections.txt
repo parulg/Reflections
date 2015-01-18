@@ -4,4 +4,9 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Staging area is an intermediate area between working directory and repository. It is good because it helps me put only those files in a commit that were logically bound.
 
+How can you use the staging area to make sure you have one commit per logical change?
+	using the command git diff --staged, I can find what are the changes in the staged area and restrict to only one logical change
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	When we diverge into some big change in the projecct  but want to keep the original version too, branching helps.
 
