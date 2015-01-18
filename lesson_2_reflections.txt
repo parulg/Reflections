@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+	When I initialize a repository metadat folder for the files in the repository gets created. Initializing the repository helps me start version controlling my project/repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area is an intermediate area between working directory and repository. It is good because it helps me put only those files in a commit that were logically bound.
+
+
